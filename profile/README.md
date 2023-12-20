@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo.png" alt="Logo NutriKita" style="width: 20%;">
+  <img src="https://raw.githubusercontent.com/Bangkit-2023-Capstone-CH2-PS307/.github/main/profile/assets/logo.png" alt="Logo NutriKita" style="width: 20%;">
   <p>A Stunting-Free Future Starts with Every Meal</p>
 </div>
 
@@ -27,7 +27,7 @@ Empower your pregnancy journey with NutriKita! 🌱🤰 This innovative app is y
 
 # Project Architecture
 <div align="center">
-  <img src="./assets/architecture_hd.png" alt="Cloud Architecture" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/Bangkit-2023-Capstone-CH2-PS307/.github/main/profile/assets/architecture_hd.png" alt="Cloud Architecture" style="width: 100%;">
 </div>
 
 # Project Documentation
