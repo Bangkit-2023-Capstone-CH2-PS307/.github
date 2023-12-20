@@ -15,11 +15,11 @@ Empower your pregnancy journey with NutriKita! 🌱🤰 This innovative app is y
   
 | Bangkit ID       |           Name            |   Learning Path    | LinkedIn Profile | Github | Status |
 |:----------------:|---------------------------|:------------------:|:-----------------------------------------:|-------------------------------------------------------------------|:---------------------------------|
-| M008BSY0338      | Krisna Bayu Dharma Putra  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/dharma-putra1305/) | [https://github.com/kbdp1305](https://github.com/kbdp1305) | Active |
-| M268BSX0056      | Huda Aisyah Khoirunissa   | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/huda-aisyah-khoirunissa-12b852207/) | [https://github.com/aishahhdd](https://github.com/aishahhdd) | Active |
-| C013BSY3316      | Waya Putra Ragil          | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/wayapr/) | [https://github.com/wyyr](https://github.com/wyyr) | Active |
-| C008BSY3978      | Bagus Arif Arikusworo     | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/bagus-arif-arikusworo/) | [https://github.com/BagusArif9](https://github.com/BagusArif9) | Active |
-| A008BSX2422      | Dyandra Aulia             | Mobile Development | [LinkedIn](https://www.linkedin.com/in/dyandraaulia/) | [https://github.com/dyandraaulia](https://github.com/dyandraaulia) | Active |
+| M008BSY0338      | Krisna Bayu Dharma Putra  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/dharma-putra1305/) | [@kbdp1305](https://github.com/kbdp1305) | Active |
+| M268BSX0056      | Huda Aisyah Khoirunissa   | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/huda-aisyah-khoirunissa-12b852207/) | [@aishahhdd](https://github.com/aishahhdd) | Active |
+| C013BSY3316      | Waya Putra Ragil          | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/wayapr/) | [@wyyr](https://github.com/wyyr) | Active |
+| C008BSY3978      | Bagus Arif Arikusworo     | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/bagus-arif-arikusworo/) | [@BagusArif9](https://github.com/BagusArif9) | Active |
+| A008BSX2422      | Dyandra Aulia             | Mobile Development | [LinkedIn](https://www.linkedin.com/in/dyandraaulia/) | [@dyandraaulia](https://github.com/dyandraaulia) | Active |
 | A013BSY2344      | Awal Kautsar              | Mobile Development | - | - | **Inactive** |
 | M119BSY1533      | Sahat Nathanael Sidabutar | Machine Learning   | - | - | **Inactive** |
 
