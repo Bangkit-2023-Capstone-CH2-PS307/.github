@@ -25,6 +25,11 @@ Empower your pregnancy journey with NutriKita! 🌱🤰 This innovative app is y
 
 </div>
 
+# Application Result
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bangkit-2023-Capstone-CH2-PS307/.github/main/profile/assets/resultapp.jpg" alt="Result App" style="width: 100%;">
+</div>
+
 # Project Architecture
 <div align="center">
   <img src="https://raw.githubusercontent.com/Bangkit-2023-Capstone-CH2-PS307/.github/main/profile/assets/architecture_hd.png" alt="Cloud Architecture" style="width: 100%;">
