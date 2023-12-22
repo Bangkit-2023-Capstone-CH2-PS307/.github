@@ -41,5 +41,5 @@ Empower your pregnancy journey with NutriKita! 🌱🤰 This innovative app is y
     - [ML API (Flask)](https://github.com/Bangkit-2023-Capstone-CH2-PS307/ML-API)
     - [Cloud Computing](https://github.com/Bangkit-2023-Capstone-CH2-PS307/CC)
     - [Android](https://github.com/Bangkit-2023-Capstone-CH2-PS307/MD)
-2. You can download NutriKita apps [here]()
-3. To see [application demo video]()
+2. You can download NutriKita apps [here](https://drive.google.com/file/d/1WnLHmuKmRjj20Ed3vNd-Wnq2w83Yr88y/view)
+3. To see [application demo video](https://drive.google.com/file/d/1ZUX8kb0fgL67HkWwY1MDMahEqdRhZg8Y/view)
